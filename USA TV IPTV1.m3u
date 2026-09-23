@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 group-title="Animation",Cartoon Network/Adult Swim
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Movies/Series",FXX
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:-1 group-title="Animation",Boomeramg
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+#EXTINF:-1 group-title="General",ABC
+http://23.237.104.106:8080/USA_ABC/index.m3u8
+#EXTINF:-1 group-title="General",FOX
+http://23.237.104.106:8080/USA_FOX/index.m3u8
+#EXTINF:-1 group-title="Movies/Series",DISCOVERY FAMILY
+http://23.237.104.106:8080/USA_DISCOVERY_FAMILY/index.m3u8
+#EXTINF:-1 group-title="Animation",DISNEY XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1 group-title="Music",MTV LIVE
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+#EXTINF:-1 group-title="Documentary",DISCOVERY_CHANNEL
+http://23.237.104.106:8080/USA_DISCOVERY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Cooking",FOOD NETWORK
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+#EXTINF:-1 group-title="General",CBS
+http://23.237.104.106:8080/USA_CBS/index.m3u8
+#EXTINF:-1 group-title="General",TLC
+http://23.237.104.106:8080/USA_TLC/index.m3u8
+#EXTINF:-1 group-title="General",MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1 group-title="General",TBS
+http://23.237.104.106:8080/USA_TBS/index.m3u8
+#EXTINF:-1 group-title="Documentary",INVESTIGATION DISCOVERY
+http://23.237.104.106:8080/USA_INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 group-title="Documentary",SCIENCE CHANNEL
+http://23.237.104.106:8080/USA_SCIENCE_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Documentary",ANIMAL PLANET
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 group-title="General",HGTV
+http://23.237.104.106:8080/USA_HGTV/index.m3u8
