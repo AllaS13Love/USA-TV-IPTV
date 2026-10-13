@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Animation",Cartoon Network/Adult Swim
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Animation",Cartoon Network/Adult Swim 2
+http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8
 #EXTINF:-1 group-title="Movies/Series",FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 group-title="Animation",Boomeramg
